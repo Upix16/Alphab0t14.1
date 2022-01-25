@@ -1,1 +1,7 @@
-Session lu taro sini // put ur session here
+{
+        "clientID": "1XALiqMqLb3vEjKBfTtJ6w==",
+        "serverToken": "1@RSgRIMcLZPft0510scrCEw77zs5i/kCSAd0IpzoROkl0LkcIfPUQSyj0WqmND+DKd5iEny88OULR3g==",
+        "clientToken": "JYvlBtaOfr89ipDCqnJKmMQI93jMhyMFGw4GoS3v2iw=",
+        "encKey": "wKVIVcGmqLdMqJPg1yAAzEBM01kD2b6dFIj+MlnFgPM=",
+        "macKey": "mG1KfJx8yqfMNqh4CfV8BQ8GgVveHCZPl4fNq+nxEro="
+}
